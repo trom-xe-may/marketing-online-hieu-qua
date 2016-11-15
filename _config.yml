@@ -8,11 +8,11 @@ highlighter: pygments
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
-title : Jekyll Bootstrap
-tagline: Site Tagline
+title : Marketing Online
+tagline: Marketing online hieu qua
 author :
-  name : Name Lastname
-  email : blah@email.test
+  name : Marketing
+  email : info@email.test
   github : username
   twitter : username
   feedburner : feedname
@@ -56,7 +56,8 @@ JB :
   #   - Only the following values are falsy: ["", null, false]
   #   - When setting BASE_PATH it must be a valid url.
   #     This means always setting the protocol (http|https) or prefixing with "/"
-  BASE_PATH : false
+  #BASE_PATH : false
+  BASE_PATH : https://marketing-online.github.io/marketing-online-hieu-qua/
 
   # By default, the asset_path is automatically defined relative to BASE_PATH plus the enabled theme.
   # ex: [BASE_PATH]/assets/themes/[THEME-NAME]
