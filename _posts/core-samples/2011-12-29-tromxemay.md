@@ -364,49 +364,12 @@ That is to say loading a post file into a template file that refers to another t
 ## How Jekyll Generates the Final Static Files.
 
 Ultimately, Jekyll's job is to generate a static representation of your website.
-The following is an outline of how that's done:
+Sáng 8.11, Đội CSGT số 14 (Công an Hà Nội) cho biết, đang bàn giao đối tượng Lê Việt Cường (SN 1985, Nam Định) cho Công an phường Đại Kim (quận Hoàng Mai, Hà Nội) điều tra, làm rõ hành vi trộm cắp tài sản.
 
-1. **Jekyll collects data.**
-  Jekyll scans the posts directory and collects all posts files as post objects. It then scans the layout assets and collects those and finally scans other directories in search of pages.
+Trước đó, khoảng 9h ngày 8.11, khi làm nhiệm vụ tại khu vực Cầu Dậu (quận Hoàng Mai), tổ công tác Đội CSGT số 14 gồm trung tá Lê Văn Tiến (Đội trưởng Đội CSGT 14), đại uý Nguyễn Văn Quang và thượng uý Trần Văn Tiến nghe tiếng tri hô "cướp, cuớp" từ người dân.
 
-2. **Jekyll computes data.**
-  Jekyll takes these objects, computes metadata (permalinks, tags, categories, titles, dates) from them and constructs one
-  big `site` object that holds all the posts, pages, layouts, and respective metadata.
-  At this stage your site is one big computed ruby object.
+Cùng lúc này, tổ công tác Đội CSGT số 14 phát hiện Cường đi xe máy Wave bất ngờ bị ngã xuống đường rồi vứt lại xe bỏ chạy.
 
-3. **Jekyll liquifies posts and templates.**
-  Next jekyll loops through each post file and converts (through markdown or textile) and **liquifies** the post inside of its respective layout(s).
-  Once the post is parsed and liquified inside the the proper layout structure, the layout itself is "liquified".
-	**Liquification** is defined as follows: Jekyll initiates a Liquid template, and passes a simpler hash representation of the ruby site object as well as a simpler
-  hash representation of the ruby post object. These simplified data structures are what you have access to in the templates.
+Nghi ngờ đây là đối tượng trộm cướp, trung tá Lê Văn Tiến cùng chiến sĩ của đội thiết lập đội hình cùng người dân chặn bắt Cường. Dù lực lượng CSGT yêu cầu Cường đầu hàng nhưng đối tượng không chấp hành, vẫn cố tìm đường bỏ chạy.
 
-3. **Jekyll generates output.**
-	Finally the liquid templates are "rendered", thereby processing any liquid syntax provided in the templates
-	and saving the final, static representation of the file.
-
-**Notes.**
-Because Jekyll computes the entire site in one fell swoop, each template is given access to
-a global `site` hash that contains useful data. It is this data that you'll iterate through and format
-using the Liquid tags and filters in order to render it onto a given page.
-
-Remember, in Jekyll you are an end-user. Your API has only two components:
-
-1. The manner in which you setup your directory.
-2. The liquid syntax and variables passed into the liquid templates.
-
-All the data objects available to you in the templates via Liquid are outlined in the **API Section** of Jekyll-Bootstrap.
-You can also read the original documentation here: <https://github.com/mojombo/jekyll/wiki/Template-Data>
-
-## Conclusion
-
-I hope this paints a clearer picture of what Jekyll is doing and why it works the way it does.
-As noted, our main programming constraint is the fact that our API is limited to what is accessible via Liquid and Liquid only.
-
-Jekyll-bootstrap is intended to provide helper methods and strategies aimed at making it more intuitive and easier to work with Jekyll =)
-
-**Thank you** for reading this far.
-
-## Next Steps
-
-Please take a look at [{{ site.categories.api.first.title }}]({{ BASE_PATH }}{{ site.categories.api.first.url }})
-or jump right into [Usage]({{ BASE_PATH }}{{ site.categories.usage.first.url }}) if you'd like.
+Trước tình thế trên, chiến sĩ Đội CSGT số 14 đã ập vào dùng võ nghiệp vụ quật ngã Cường. Tổ tuần tra Công an phường Đại Kim ngay sau đó cũng có mặt hỗ trợ bắt giữ đối tượng, đưa về trụ sở.
