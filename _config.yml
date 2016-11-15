@@ -57,7 +57,7 @@ JB :
   #   - When setting BASE_PATH it must be a valid url.
   #     This means always setting the protocol (http|https) or prefixing with "/"
   #BASE_PATH : false
-  BASE_PATH : https://marketing-online.github.io/marketing-online-hieu-qua/
+  BASE_PATH : https://marketing-online.github.io/marketing-online-hieu-qua
 
   # By default, the asset_path is automatically defined relative to BASE_PATH plus the enabled theme.
   # ex: [BASE_PATH]/assets/themes/[THEME-NAME]
