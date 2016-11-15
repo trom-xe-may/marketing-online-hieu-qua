@@ -1,17 +1,16 @@
 ---
 layout: post
 category : lessons
-tagline: "Supporting tagline"
+tagline: "trom xe may"
 tags : [intro, beginner, jekyll, tutorial]
 ---
 {% include JB/setup %}
 
-TSáng 8.11, Đội CSGT số 14 (Công an Hà Nội) cho biết, đang bàn giao đối tượng Lê Việt Cường (SN 1985, Nam Định) cho Công an phường Đại Kim (quận Hoàng Mai, Hà Nội) điều tra, làm rõ hành vi trộm cắp tài sản.
+Trước khoảng 9 8,11 ngày, Cầu Dậu (Hoàng Mai), lĩnh vực dịch vụ, các nhóm làm việc tới 14 đội, Đại tá Lê Công an Tien Van (các nhà lãnh đạo của nhóm cảnh sát giao thông 14 hình thành giữa), Nguyễn Văn Quang và đội trưởng tri Trần Văn Tiến, trung úy nghe hát "trộm cắp "người dân
+Các Cảnh sát giao thông đội số 14 (Công an Hà Nội) cho biết, các đối tượng đã được bàn giao cho Việt Nam Cường Lê (sinh năm 1985, tỉnh Nam Định) công an huyện Đại Kim (quận Hoàng Mai, Hà Nội) nghiên cứu, làm rõ hành vi trộm cắp tài sản.
 
-Trước đó, khoảng 9h ngày 8.11, khi làm nhiệm vụ tại khu vực Cầu Dậu (quận Hoàng Mai), tổ công tác Đội CSGT số 14 gồm trung tá Lê Văn Tiến (Đội trưởng Đội CSGT 14), đại uý Nguyễn Văn Quang và thượng uý Trần Văn Tiến nghe tiếng tri hô "cướp, cuớp" từ người dân.
+Đồng thời, các nhóm làm việc phát hiện ra rằng 14 của sóng hiện tại của xe máy giao thông Thiết bị Cảnh sát bị ném trở lại trên đường và bỏ chạy bằng xe hơi.
 
-Cùng lúc này, tổ công tác Đội CSGT số 14 phát hiện Cường đi xe máy Wave bất ngờ bị ngã xuống đường rồi vứt lại xe bỏ chạy.
+Đây là những đối tượng của những tên [trộm xe máy] [http://chong-trom-xe-may.openmize.com] bị cáo buộc, Trung tá Lê Văn Tiến và thiết lập cường độ của những người bị bắt lính. Tự hỏi, nếu các lực lượng đầu hàng các lực lượng cảnh sát, nhưng không quan sát các đối tượng, vẫn đang cố gắng để tìm một cách để trốn thoát.
 
-Nghi ngờ đây là đối tượng trộm cướp, trung tá Lê Văn Tiến cùng chiến sĩ của đội thiết lập đội hình cùng người dân chặn bắt Cường. Dù lực lượng CSGT yêu cầu Cường đầu hàng nhưng đối tượng không chấp hành, vẫn cố tìm đường bỏ chạy.
-
-Trước tình thế trên, chiến sĩ Đội CSGT số 14 đã ập vào dùng võ nghiệp vụ quật ngã Cường. Tổ tuần tra Công an phường Đại Kim ngay sau đó cũng có mặt hỗ trợ bắt giữ đối tượng, đưa về trụ sở.
+Trong những trường hợp này, cảnh sát và binh sĩ thiệt mạng 14 người bước vào chuyên nghiệp võ Cường. đội tuần tra cảnh sát phòng Kim Dai sớm cũng có sẵn để hỗ trợ các đối tượng bị bắt giữ, đưa đến trụ sở chính
