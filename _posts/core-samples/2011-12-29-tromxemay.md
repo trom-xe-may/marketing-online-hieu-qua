@@ -5,7 +5,7 @@ tagline: "trom xe may"
 tags : [intro, beginner, jekyll, tutorial]
 ---
 {% include JB/setup %}
-
+## Trộm xe máy ở Hà Nội
 Trước khoảng 9 8,11 ngày, Cầu Dậu (Hoàng Mai), lĩnh vực dịch vụ, các nhóm làm việc tới 14 đội, Đại tá Lê Công an Tien Van (các nhà lãnh đạo của nhóm cảnh sát giao thông 14 hình thành giữa), Nguyễn Văn Quang và đội trưởng tri Trần Văn Tiến, trung úy nghe hát "trộm cắp "người dân
 Các Cảnh sát giao thông đội số 14 (Công an Hà Nội) cho biết, các đối tượng đã được bàn giao cho Việt Nam Cường Lê (sinh năm 1985, tỉnh Nam Định) công an huyện Đại Kim (quận Hoàng Mai, Hà Nội) nghiên cứu, làm rõ hành vi trộm cắp tài sản.
 
