@@ -1,0 +1,36 @@
+.sectionxxx {margin-top: 40px;}
+img.logo {margin-top: 0px; margin-left: 5px; height: 80px;}
+.logo-text {font-size: 80%}
+
+h1 {font-size: 280%;}
+h2 {font-size: 180%;}
+h3 {font-size: 140%;}
+h4 {font-size: 120%;}
+
+.owl-carousel .owl-item img{
+    width: 300px;
+    height: 200px;
+    padding: 10px;
+}
+
+@media print body {
+    font-family: "Arial", serif;
+    font-size: 1em;
+    color: #333333;
+    margin-top: 2cm;
+    margin-right: 2cm;
+    margin-bottom: 1.5cm;
+    margin-left: 2cm;
+}
+
+.modal {
+    min-width: 90%;
+    min-height: 90%;
+}
+.modal .modal-content {
+    padding: 2px;
+}
+#product .card {
+    min-height: 420px;
+}
+
