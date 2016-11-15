@@ -5,7 +5,7 @@ var cssfiles = [
     'https://cdnjs.cloudflare.com/ajax/libs/owl-carousel/1.3.3/owl.theme.min.css',
     'https://cdnjs.cloudflare.com/ajax/libs/featherlight/1.5.0/featherlight.min.css',
     'https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.5.2/animate.min.css',
-    'assets/style.css'
+    'assets/themes/materializecss/style.css'
 
 ];
 var jsfiles = [ 
@@ -14,8 +14,8 @@ var jsfiles = [
     'https://cdnjs.cloudflare.com/ajax/libs/materialize/0.97.7/js/materialize.min.js',
     'https://cdnjs.cloudflare.com/ajax/libs/owl-carousel/1.3.3/owl.carousel.min.js',
     'https://cdnjs.cloudflare.com/ajax/libs/featherlight/1.5.0/featherlight.min.js',
-    'assets/jquery.waypoints.min.js', //-- scroll to view
-    'assets/inview.min.js',  //-- scroll to view
+    'assets/themes/materializecss/jquery.waypoints.min.js', //-- scroll to view
+    'assets/themes/materializecss/inview.min.js',  //-- scroll to view
     // 'assets/index.js', 
 ];
 
