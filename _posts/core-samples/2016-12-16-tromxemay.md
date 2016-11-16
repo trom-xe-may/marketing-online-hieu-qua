@@ -2,7 +2,7 @@
 layout: post
 category : News
 tagline: "trom xe may"
-tags : [intro, beginner, news, trom-xe-may,]
+tags : [news, trom-xe-may]
 ---
 {% include JB/setup %}
 ### Trộm xe máy ở Hà Nội
